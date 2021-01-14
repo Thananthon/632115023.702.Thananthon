@@ -1,4 +1,4 @@
-package Work;
+package Week5;
 
 public class MainApplication2 {
     public static void main(String[] args) {

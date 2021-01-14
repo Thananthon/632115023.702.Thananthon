@@ -1,4 +1,4 @@
-package Person1;
+package Week6;
 
 public class MainJob extends Person {
     String genre1;

@@ -1,4 +1,4 @@
-package Work;
+package Week5;
 
 public class NerfGun {
     private int bullets;
