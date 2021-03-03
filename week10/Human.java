@@ -4,7 +4,7 @@ class person{
         System.out.println(animal.roar());
     }
 }
-public class Human {
+public class Human  {
     public static void main(String[] args) {
         Dog dog = new Dog();
         Human human = new Human();
