@@ -1,4 +1,3 @@
-package Demo;
 class A {
 
 }
