@@ -15,3 +15,4 @@ public class specific extends Person{
         
     }
 }
+//Thananthon Koonyo 632115023

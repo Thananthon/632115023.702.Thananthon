@@ -14,3 +14,4 @@ public class shape {
         return "This is a "+type_shape;
     }
 }
+//Thananthon Koonyo 632115023

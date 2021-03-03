@@ -14,4 +14,4 @@ public class Rectangle extends shape {
                 + " and height as " + height;
     }
 }
-
+//Thananthon Koonyo 632115023

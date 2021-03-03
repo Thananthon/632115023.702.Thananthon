@@ -13,3 +13,4 @@ public class Sheriff extends Person{
         System.out.println("I'm a sheriff and work in "+ this.workState +".");
     }
 }
+//Thananthon Koonyo 632115023
