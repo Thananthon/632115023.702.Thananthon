@@ -19,4 +19,3 @@ public class InstanceOfDemo{
         System.out.print(c instanceof A);
     }
 }
-//Thananthon Koonyo 632115023
